@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-# 1 - Inserindo as alternativas,criterios e pesos.
+# 1 - Inserindo as alternativas,critérios e pesos.
 
 # 1.1 - Declarando as váriaveis.
 
