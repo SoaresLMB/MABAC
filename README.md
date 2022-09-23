@@ -18,7 +18,7 @@ WASPAS (Weighted Aggregated Sum Product Assessment)
 
 https://www.researchgate.net/publication/277246947_Optimization_of_Weighted_Aggregated_Sum_Product_Assessment
 
-Este projeto é orientado a objetos e foi utilizada as bibliotecas Pandas e Numpy, assim como loops para formação de matrizes.
-
+Para entendimento de como executar o algoritmo e utilizar os métodos mencionados, use o link abaixo:
+https://github.com/SoaresLMB/Metodos-de-Apoio-a-Decisao-Multicriterio-Projeto-de-biblioteca-/blob/main/execucao_do_algoritmo.py
  
  
