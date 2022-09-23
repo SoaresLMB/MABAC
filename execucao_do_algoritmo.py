@@ -1,4 +1,4 @@
-from classe_matriz import Matriz
+from codigo_metodos_multicriterios import Matriz
 
 # EXECUTANDO O ALGORITMO:
 
