@@ -1,7 +1,5 @@
 # Metódos de Apoio a Decisão Multicritério.
-Esse projeto visa a criação de uma biblioteca Python para os métodos de apoio a decisão multicritérios, que são: técnicas matemáticas oriundas da Pesquisa Operacional de apoio à decisão, que ajudam a solucionar problemas que possuem vários objetivos frequentemente conflitantes, com múltiplas ações possíveis, incertezas, várias etapas, e diversos indivíduos afetados pela decisão.
-
-Nesse projeto já foram inseridos os métodos:
+Neste projeto foram implementados quatro métodos de apoio a decisão multicritérios (MABAC, WSM, WPM e WASPAS), que são: técnicas matemáticas oriundas da Pesquisa Operacional, que ajudam a solucionar problemas que possuem vários objetivos frequentemente conflitantes, com múltiplas ações possíveis, incertezas, várias etapas, e diversos indivíduos afetados pela decisão.
 
 MABAC (Multi-Attributive Border Approximation area Comparison)
 
