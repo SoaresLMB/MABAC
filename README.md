@@ -1,4 +1,4 @@
-# Metódos de Apoio a Decisão Multicritério.
+# Metódos de Apoio a Decisão Multicritério (MABAC, WSM, WPM e WASPAS).
 Neste projeto foram implementados quatro métodos de apoio a decisão multicritérios (MABAC, WSM, WPM e WASPAS), que são: técnicas matemáticas oriundas da Pesquisa Operacional, que ajudam a solucionar problemas que possuem vários objetivos frequentemente conflitantes, com múltiplas ações possíveis, incertezas, várias etapas, e diversos indivíduos afetados pela decisão.
 
 MABAC (Multi-Attributive Border Approximation area Comparison)
